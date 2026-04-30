@@ -53,7 +53,7 @@ Fabio Fernandes Gomes
 ---
 
 📬 Contato
-LinkedIn: https://www.linkedin.com/in/fabiofernandes-dev/
-GitHub: https://github.com/fabiofernandesweb
-(85)9 94372237
-(85)9 98126310
+- LinkedIn: https://www.linkedin.com/in/fabiofernandes-dev/
+- GitHub: https://github.com/fabiofernandesweb
+- (85)9 94372237
+- (85)9 98126310
