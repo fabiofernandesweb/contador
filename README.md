@@ -24,16 +24,6 @@ O contador inicia em **0** e permite ao usuário interagir com três botões:
 
 ---
 
-## 📂 Estrutura do Projeto
-
----contador/
-│
-├── index.html
-├── css/
-│ └── style.css
-└── js/
-└── controle.js
-
 ## 🛠️ Tecnologias utilizadas
 
 - HTML5
