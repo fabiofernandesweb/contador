@@ -14,6 +14,7 @@ Um projeto simples de **Contador** desenvolvido com **HTML, CSS e JavaScript pur
 ---
 
 ## 🖥️ Preview
+https://fabiofernandesweb.github.io/contador/
 
 O contador inicia em **0** e permite ao usuário interagir com três botões:
 
@@ -51,3 +52,18 @@ Este projeto foi criado para praticar:
 - Organização de arquivos
 
 ---
+
+👨‍💻 Autor
+
+Fabio Fernandes Gomes
+
+💼 Em transição para Desenvolvedor Front-End
+🚀 Focado em HTML, CSS, JavaScript e React
+
+---
+
+📬 Contato
+LinkedIn: https://www.linkedin.com/in/fabiofernandes-dev/
+GitHub: https://github.com/fabiofernandesweb
+(85)9 94372237
+(85)9 98126310
